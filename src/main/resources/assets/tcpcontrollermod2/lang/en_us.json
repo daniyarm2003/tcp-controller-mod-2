@@ -1,0 +1,19 @@
+{
+  "gui.settings.title": "TCP Controller Mod Settings",
+  "gui.settings.exit": "Exit",
+  "gui.settings.max_effect_strength": "Max Amplifier",
+  "gui.settings.unbreakable_blocks": "Unbreakables",
+
+  "gui.settings.commands": "Commands",
+  "gui.settings.effects":  "Effects",
+  "gui.settings.entities": "Entities",
+
+  "settings.effects.instant_damage": "Instant Damage",
+  "settings.effects.wither": "Wither",
+  "settings.effects.regeneration": "Regeneration",
+  "settings.effects.saturation": "Saturation",
+
+  "settings.entities.lightning_bolt": "Lightning",
+  "settings.entities.wither": "Wither",
+  "settings.entities.tnt": "TNT"
+}
